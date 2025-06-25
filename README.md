@@ -1,0 +1,2 @@
+# CatGPTLMSTUDI1.06.24.25
+1.0
